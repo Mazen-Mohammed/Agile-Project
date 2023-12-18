@@ -351,3 +351,27 @@ form .btn:focus{
     height: 1rem;
     width: 1rem;
 }
+#star:hover
+{
+    cursor: pointer;
+}
+.nav-menu
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: right;
+    margin-top: 5%;
+}
+.nav-menu li
+{
+    list-style: none;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: -8%;
+}
+.logo img
+{
+    margin-top: -5%;
+    margin-left: -20%;
+}
